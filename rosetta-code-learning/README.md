@@ -1,5 +1,7 @@
 # rosetta-code-learning
 
+[Link to Rosetta Code tasks](https://rosettacode.org/wiki/Category:Programming_Tasks)
+
 ## 0-9
 
 &#9744; 100 doors

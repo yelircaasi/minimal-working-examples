@@ -2,15 +2,15 @@
 
 [Link to Rosetta Code tasks](https://rosettacode.org/wiki/Category:Programming_Tasks)
 
-## 0-9
+## 0-9 (checklist applies to README files and Python code for now)
 
-&#9744; 100 doors
+&#9745; 100 doors
 
 &#9745; 100 prisoners
 
-&#9744; 15 puzzle game
+&#9745; 15 puzzle game
 
-&#9744; 15 puzzle solver
+&#9745; 15 puzzle solver
 
 &#9744; 2048
 

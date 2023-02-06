@@ -160,7 +160,6 @@
 
 B
 
-
 &#9744; Babbage problem
 
 &#9744; Balanced brackets
@@ -242,7 +241,6 @@ B
 &#9744; Burrows–Wheeler transform
 
 C
-
 
 &#9744; Caesar cipher
 
@@ -442,7 +440,6 @@ C
 
 D
 
-
 &#9744; Damm algorithm
 
 &#9744; Date format
@@ -542,7 +539,7 @@ D
 &#9744; Dutch national flag problem
 
 &#9744; Dynamic variable names
- 
+
 ## E
 
 &#9744; Eban numbers

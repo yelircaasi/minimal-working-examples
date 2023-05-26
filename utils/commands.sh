@@ -5,6 +5,8 @@
 ########################
 
 create_py() {
+    cd $PPROJECTS_DIR && mkdir $1
+    cp -r "$PPROJECTS_TEMPLATES/python" "$PPROJECTS_DIR/$1"
     
 }
 

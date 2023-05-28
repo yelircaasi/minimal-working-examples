@@ -1,0 +1,10 @@
+-> https://dberkholz.com/2011/04/07/bash-shell-scripting-libraries/
+
+https://github.com/aks/bash-lib
+
+https://github.com/juan131/bash-libraries
+
+https://github.com/gavinlyonsrepo/bashmultitool
+
+https://github.com/nicholaswilde/libbash
+
